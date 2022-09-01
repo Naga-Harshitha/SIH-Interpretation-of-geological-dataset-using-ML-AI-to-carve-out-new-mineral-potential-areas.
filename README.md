@@ -1,0 +1,1 @@
+# SIH-S-Interpretation-of-geological-dataset-using-ML-AI-to-carve-out-new-mineral-potential-areas.
